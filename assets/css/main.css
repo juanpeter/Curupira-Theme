@@ -1,0 +1,38 @@
+/* /////////////////////// */
+/*         HEADER          */
+/* /////////////////////// */
+header {
+    height: 90px;
+    margin-bottom: 5em;
+}
+header nav img {
+    max-height: 90px;
+}
+header nav .nav-links a {
+    color: inherit;
+    height: 100%;
+    width: 100%;
+}
+header nav .nav-links a:hover {
+    text-decoration: none;
+}
+header nav .nav-links a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header nav .nav-links:hover {
+    color: #ffffff;
+    background-color: #246278;
+    transition: all 0.5s;
+}
+/* /////////////////////// */
+/*         FOOTER          */
+/* /////////////////////// */
+footer {
+    background-color: #246278;
+    color: #ffffff;
+}
+footer .contato{
+    text-align: center;
+}

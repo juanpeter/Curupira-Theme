@@ -1,0 +1,29 @@
+{
+  "name": "curupira",
+  "version": "1.0.0",
+  "description": "A new theme for Ghost CMS!",
+  "engines": {
+    "ghost-api": "v3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanpeter/Curupira.git"
+  },
+  "author": {
+    "name": "João Pedro Israel",
+    "email": "juanpeterisrael@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juanpeter/Curupira/issues"
+  },
+  "homepage": "https://github.com/juanpeter/Curupira#readme",
+  "keywords": [
+    "ghost-theme"
+  ],
+  "config": {
+    "posts_per_page": 5,
+    "image_sizes": {}
+  },
+  "dependencies": {}
+}
